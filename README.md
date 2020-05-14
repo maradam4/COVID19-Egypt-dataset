@@ -43,9 +43,9 @@
 
 ## الملفات
 
-* نزّل ملف تجريف التغريدات  [صيغة xlsx](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/COVID19-egypt-datasets.xlsx) و [صيغة ods](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/COVID19-egypt-datasets.ods) 
+* نزّل ملف قاعدة البيانات  [صيغة xlsx](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/COVID19-egypt-datasets.xlsx) و [صيغة ods](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/COVID19-egypt-datasets.ods) 
 
-* نزّلي ملف قاعدة البيانات [صيغة xlsx](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/covid19-egy-mohp-tweets.xlsx) و [صيغة ods](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/covid19-egy-mohp-tweets.ods) 
+* نزّلي ملف تجريف التغريدات [صيغة xlsx](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/covid19-egy-mohp-tweets.xlsx) و [صيغة ods](https://github.com/maradam4/COVID19-Egypt-dataset/raw/master/data/covid19-egy-mohp-tweets.ods) 
 
 ## TODO
 * إضافة ملف يضم الاحصائيات الصادرة عن وزارة الصحة والسكان المصرية.
